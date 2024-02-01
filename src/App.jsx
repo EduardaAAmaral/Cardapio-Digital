@@ -1,5 +1,5 @@
 import { useState } from "react";
-import imagemRestaurant from "./assets/hashtaurante.webp";
+import imagemRestaurant from "./assets/Logo.png";
 import './App.css';
 import { Navegacao } from "./Navegacao";
 import { ItemCardapio } from "./ItemCardapio";
