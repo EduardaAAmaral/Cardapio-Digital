@@ -1,4 +1,4 @@
-<h1 align = "center">Cardápio Digital - Intensivo de JavaScript</h1>
+<h1 align = "center">🍮 Cardápio Digital - Intensivo de JavaScript</h1>
 <p>No dia 31 de janeiro de 2024, finalizei um curso intensivo de JavaScript promovido pela HashTag Programação. O projeto prático desenvolvido durante o curso envolve a criação de um Cardápio de Digital, utilizando não apenas JavaScript, mas também as linguagens de marcação HTML e estilização CSS. Este intensivão foi elaborado com o objetivo de abranger conceitos desde o nível básico até o avançado em JavaScript, proporcionando uma compreensão abrangente e prática dessa poderosa linguagem de programação.</p>
 
 ![flor](https://github.com/EduardaAAmaral/Cardapio-Digital/assets/100651298/b9a2f5b8-be87-4be7-b02d-5b1f8492d807)
